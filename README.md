@@ -5,8 +5,8 @@
 <img alt="Coding" width="300" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3c0bGQ2OWU2b2lxbWt0Y3l0OWtlcG5ocXl3Ym54ZnMyaW1neXI2eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Nx0rz3jtxtEre/giphy.gif">
 
 🚀 Passionné par le développement web et mobile  
-🎓 Actuellement en 3ème année de BUT MMI parcours développement  
-💻 Titulaire d’un BTS SIO option SISR  
+🎓 Actuellement en M1 Architecture des logiciels  
+💻 Titulaire d’un BTS SIO option SISR, ainsi que d'un BUT MMI parcours développement 
 📚 En pleine exploration de l’univers 3D interactif  
 
 ---
